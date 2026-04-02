@@ -24,14 +24,14 @@ body {
 
 /* BANNER */
 .banner img {
-  width: 85%;
+  width: 55%;
   display: block;
   margin: 0 auto;
 }
 
 /* DUAS IMAGENS */
 .imagens {
-  padding: 100px;;
+  padding: 100px;
 }
 
 .imagens .bloco {
@@ -43,7 +43,8 @@ body {
 
 .bloco img {
   width: 60%;
-  margin: 100px;
+  margin: 0px;
+  margin-left: 160px;
   margin-top: -100px;
 }
 
