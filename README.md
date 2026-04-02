@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Hugo Faria Santos
+- Matricula: 928883
+- Proposta de projeto escolhida: Mercado Central de BH
+- Breve descrição sobre seu projeto: Um ponto turistico muito visitado em BH.
 
 
 ## Print do(s) wireframe(s) criado
